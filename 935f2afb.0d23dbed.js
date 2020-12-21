@@ -1,0 +1,10 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[10],{
+
+/***/ 81:
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"pluginId\":\"default\",\"version\":\"current\",\"label\":\"Next\",\"isLast\":true,\"docsSidebars\":{\"docs\":[{\"collapsed\":true,\"type\":\"category\",\"label\":\"Documentation\",\"items\":[{\"type\":\"link\",\"label\":\"Building and Running\",\"href\":\"/hermes/docs/building-and-running\"},{\"type\":\"link\",\"label\":\"Building with Emscripten\",\"href\":\"/hermes/docs/emscripten\"},{\"type\":\"link\",\"label\":\"Design Overview\",\"href\":\"/hermes/docs/design\"},{\"type\":\"link\",\"label\":\"Design of the IR\",\"href\":\"/hermes/docs/ir\"},{\"type\":\"link\",\"label\":\"Design of the Optimizer\",\"href\":\"/hermes/docs/optimizer\"},{\"type\":\"link\",\"label\":\"Language Features\",\"href\":\"/hermes/docs/language-features\"},{\"type\":\"link\",\"label\":\"Hermes VM\",\"href\":\"/hermes/docs/vm\"},{\"type\":\"link\",\"label\":\"Modules\",\"href\":\"/hermes/docs/modules\"},{\"type\":\"link\",\"label\":\"RegExp\",\"href\":\"/hermes/docs/regexp\"},{\"type\":\"link\",\"label\":\"Strings\",\"href\":\"/hermes/docs/strings\"}]},{\"collapsed\":true,\"type\":\"category\",\"label\":\"Integrations\",\"items\":[{\"type\":\"link\",\"label\":\"React Native Integration\",\"href\":\"/hermes/docs/react-native-integration\"}]},{\"collapsed\":true,\"type\":\"category\",\"label\":\"Contributing\",\"items\":[{\"type\":\"link\",\"label\":\"Coding Standards\",\"href\":\"/hermes/docs/coding-standards\"}]}]},\"permalinkToSidebar\":{\"/hermes/docs/building-and-running\":\"docs\",\"/hermes/docs/coding-standards\":\"docs\",\"/hermes/docs/design\":\"docs\",\"/hermes/docs/emscripten\":\"docs\",\"/hermes/docs/ir\":\"docs\",\"/hermes/docs/language-features\":\"docs\",\"/hermes/docs/modules\":\"docs\",\"/hermes/docs/optimizer\":\"docs\",\"/hermes/docs/react-native-integration\":\"docs\",\"/hermes/docs/regexp\":\"docs\",\"/hermes/docs/strings\":\"docs\",\"/hermes/docs/vm\":\"docs\"}}");
+
+/***/ })
+
+}]);
